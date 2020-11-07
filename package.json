@@ -1,0 +1,12 @@
+{
+  "name": "react-conditional",
+  "version": "0.1.0",
+  "description": "Conditional tool to make working in React easier",
+  "main": "index.js",
+  "repository": "https://github.com/amirmsoltani/react-conditional",
+  "author": "amirmsoltani",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
